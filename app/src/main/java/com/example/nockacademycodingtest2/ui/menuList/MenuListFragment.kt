@@ -1,4 +1,4 @@
-package com.example.nockacademycodingtest2
+package com.example.nockacademycodingtest2.ui.menuList
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -13,6 +13,7 @@ import com.android.volley.Request
 import com.android.volley.RequestQueue
 import com.android.volley.toolbox.JsonObjectRequest
 import com.android.volley.toolbox.Volley
+import com.example.nockacademycodingtest2.R
 import com.example.nockacademycodingtest2.model.MenuItem
 import com.example.nockacademycodingtest2.model.RestaurantDetail
 import com.squareup.picasso.Picasso

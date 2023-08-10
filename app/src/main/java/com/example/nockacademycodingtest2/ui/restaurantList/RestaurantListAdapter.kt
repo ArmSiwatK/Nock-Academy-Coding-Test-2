@@ -1,4 +1,4 @@
-package com.example.nockacademycodingtest2
+package com.example.nockacademycodingtest2.ui.restaurantList
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,6 +6,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.nockacademycodingtest2.R
 import com.example.nockacademycodingtest2.model.Restaurant
 import com.squareup.picasso.Picasso
 

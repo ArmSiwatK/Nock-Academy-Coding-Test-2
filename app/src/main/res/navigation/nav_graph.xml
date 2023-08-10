@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/restaurantListFragment"
-        android:name="com.example.nockacademycodingtest2.RestaurantListFragment"
+        android:name="com.example.nockacademycodingtest2.ui.restaurantList.RestaurantListFragment"
         android:label="Restaurant List"
         tools:layout="@layout/fragment_restaurant_list" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/menuListFragment"
-        android:name="com.example.nockacademycodingtest2.MenuListFragment"
+        android:name="com.example.nockacademycodingtest2.ui.menuList.MenuListFragment"
         android:label="Menu List"
         tools:layout="@layout/fragment_menu_list">
         <argument

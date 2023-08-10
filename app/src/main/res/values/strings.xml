@@ -7,4 +7,5 @@
     <string name="restaurant_type">Restaurant Type</string>
     <string name="menu_price_format">%s THB</string>
     <string name="menu_image">Menu Image</string>
+    <string name="checkmark_icon">Checkmark Icon</string>
 </resources>

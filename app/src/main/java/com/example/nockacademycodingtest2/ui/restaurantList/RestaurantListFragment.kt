@@ -1,4 +1,4 @@
-package com.example.nockacademycodingtest2
+package com.example.nockacademycodingtest2.ui.restaurantList
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -12,6 +12,7 @@ import com.android.volley.Request
 import com.android.volley.RequestQueue
 import com.android.volley.toolbox.JsonArrayRequest
 import com.android.volley.toolbox.Volley
+import com.example.nockacademycodingtest2.R
 import com.example.nockacademycodingtest2.model.Restaurant
 
 class RestaurantListFragment : Fragment() {
